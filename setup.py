@@ -31,7 +31,7 @@ with open('README.md', 'r') as readme:
 
 setuptools.setup(
     name='alpha-zero-general',
-    version='1.0',
+    version='1.0.1',
     license='MIT',
     packages=['alpha_zero_general'],
     install_requires=['cffi', 'coloredlogs',
